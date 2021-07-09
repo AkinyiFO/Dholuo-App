@@ -1,0 +1,2 @@
+# Dholuo-App
+Dholuo app introduces you to Dholuo through a collection of basic vocabularies and phrases with their respective pronunciation in audio form.  Given that written Dholuo lacks phonetics guide, the audios are a lead on how to utter Dholuo words, that will set you up for proper pronunciations while attempting to make your first Dholuo conversations.  The app has four categories where users may scroll through each of them and challenge themselves by reading, listen to the translation, and practicing the pronunciations.
